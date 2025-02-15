@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 
-=======
+
+
 # My Portfolio Website
 
 A modern, responsive portfolio website built with React to showcase my projects and skills.
