@@ -1,4 +1,5 @@
 import React from "react";
+import { HashRouter as Router } from "react-router-dom"; 
 import "./index.css";
 import Navbar from "./components/Navbar";
 import HomeBanner from "./components/HomeBanner";
@@ -11,6 +12,7 @@ import AnimatedCursor from "react-animated-cursor";
 
 function App() {
   return (
+    <Router>
     <>
       <AnimatedCursor
         color="#fff"
@@ -62,6 +64,7 @@ function App() {
         <Footer/>
       </div>
     </>
+    </Router>
   );
 }
 
