@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52da430e.css",
+    "main.js": "/static/js/main.a5a461af.js",
+    "static/media/HospitalMangement.png": "/static/media/HospitalMangement.fed586881541771f9785.png",
+    "static/media/profile-image.jpg": "/static/media/profile-image.037dcda3afd8e6acf3eb.jpg",
+    "static/media/Eduhub connect.png": "/static/media/Eduhub connect.810df228805db6acaa07.png",
+    "static/media/cartoon-compressed.png": "/static/media/cartoon-compressed.25aa0c6349e1c4fab593.png",
+    "static/media/SVG EditingApp.png": "/static/media/SVG EditingApp.70c0e267303968530b1b.png",
+    "index.html": "/index.html",
+    "main.52da430e.css.map": "/static/css/main.52da430e.css.map",
+    "main.a5a461af.js.map": "/static/js/main.a5a461af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52da430e.css",
+    "static/js/main.a5a461af.js"
+  ]
+}
