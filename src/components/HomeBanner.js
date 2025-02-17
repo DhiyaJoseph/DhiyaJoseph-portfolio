@@ -11,7 +11,7 @@ export default function HomeBanner({id}) {
               <div className="staticTitle">
                 Full Stack
               </div>
-              <ul className="dynamicTitle" style={{marginLeft: '125px'}}>
+              <ul className="dynamicTitle" >
                 <li><span>Developer</span></li>
               </ul>
               <a className='btn' href="https://www.linkedin.com/in/dhiya-joseph-16822020b/" target="_blank" rel="noopener noreferrer">Hire Me</a>
