@@ -62,10 +62,7 @@ npm start
 - Animated Transitions
 - Toast Notifications
 
-## 📱 Contact
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
